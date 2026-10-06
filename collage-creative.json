@@ -1,0 +1,72 @@
+[
+ {
+  "name": "g2-collage",
+  "logo": "logo-weiss.png",
+  "fotos": [
+   "img/foto-hd-pflastermaschine.jpg",
+   "img/foto-hd-pflaster-verlegen.jpg",
+   "img/foto-hd-bagger.jpg"
+  ],
+  "fokus": [
+   [
+    0.3,
+    0.4
+   ],
+   [
+    0.5,
+    0.5
+   ],
+   [
+    0.65,
+    0.45
+   ]
+  ],
+  "primary": "#007858",
+  "headline": [
+   "Facharbeiter",
+   "GaLaBau"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Baukolonne in Bad Zwischenahn",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ },
+ {
+  "name": "p2-collage",
+  "logo": "logo-weiss.png",
+  "fotos": [
+   "img/foto-hd-aufsitzmaeher.jpg",
+   "img/foto-hd-pflanzflaeche.jpg",
+   "img/foto-hd-maehen-park.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.45
+   ],
+   [
+    0.5,
+    0.5
+   ],
+   [
+    0.55,
+    0.6
+   ]
+  ],
+  "primary": "#007858",
+  "headline": [
+   "Facharbeiter",
+   "Grünpflege"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Grünpflegekolonne in Bad Zwischenahn",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

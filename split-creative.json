@@ -1,0 +1,86 @@
+[
+ {
+  "name": "g3-wir-suchen",
+  "logo": "logo-weiss.png",
+  "foto": "img/foto-hd-maschinen-baustelle.jpg",
+  "primary": "#007858",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "kicker": "WIR SUCHEN IN BAD ZWISCHENAHN",
+  "headline": [
+   "Facharbeiter",
+   "GaLaBau (m/w/d)"
+  ],
+  "subline": "Unbefristet · Quereinstieg möglich",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.4,
+   0.5
+  ]
+ },
+ {
+  "name": "g4-checkliste",
+  "logo": "logo-weiss.png",
+  "foto": "img/foto-hd-pflastermaschine.jpg",
+  "primary": "#007858",
+  "panel": "bottom",
+  "panel_hoehe": 0.6,
+  "panel_bg": "#FFFFFF",
+  "kicker": "BAUKOLONNE IN BAD ZWISCHENAHN",
+  "headline": [
+   "Facharbeiter GaLaBau (m/w/d)"
+  ],
+  "checkliste": [
+   "Kurzer Freitag – Samstag frei",
+   "Bezahlte Wege- und Fahrtzeiten",
+   "Urlaubs- & Weihnachtsgeld"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.3,
+   0.4
+  ]
+ },
+ {
+  "name": "p3-wir-suchen",
+  "logo": "logo-weiss.png",
+  "foto": "img/foto-hd-laubblaeser.jpg",
+  "primary": "#007858",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "kicker": "WIR SUCHEN IN BAD ZWISCHENAHN",
+  "headline": [
+   "Facharbeiter",
+   "Grünpflege (m/w/d)"
+  ],
+  "subline": "Unbefristet · Quereinstieg möglich",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.45,
+   0.45
+  ]
+ },
+ {
+  "name": "p4-checkliste",
+  "logo": "logo-weiss.png",
+  "foto": "img/foto-hd-aufsitzmaeher.jpg",
+  "primary": "#007858",
+  "panel": "bottom",
+  "panel_hoehe": 0.6,
+  "panel_bg": "#FFFFFF",
+  "kicker": "GRÜNPFLEGEKOLONNE IN BAD ZWISCHENAHN",
+  "headline": [
+   "Facharbeiter Grünpflege (m/w/d)"
+  ],
+  "checkliste": [
+   "Kurzer Freitag – Samstag frei",
+   "Bezahlte Wege- und Fahrtzeiten",
+   "Urlaubs- & Weihnachtsgeld"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ }
+]

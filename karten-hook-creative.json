@@ -1,0 +1,44 @@
+[
+ {
+  "name": "g1-karten-hook",
+  "logo": "logo-weiss.png",
+  "foto": "img/foto-hd-radlader-team.jpg",
+  "fokus": [
+   0.3,
+   0.45
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#007858",
+  "headline": [
+   "FACHARBEITER",
+   "GALABAU"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Bad Zwischenahn · Oldenburg · Ammerland & Umgebung"
+ },
+ {
+  "name": "p1-karten-hook",
+  "logo": "logo-weiss.png",
+  "foto": "img/foto-hd-freischneider.jpg",
+  "fokus": [
+   0.5,
+   0.4
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#007858",
+  "headline": [
+   "FACHARBEITER",
+   "GRÜNPFLEGE"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Bad Zwischenahn · Oldenburg · Ammerland & Umgebung"
+ }
+]
