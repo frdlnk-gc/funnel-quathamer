@@ -1,0 +1,148 @@
+{
+  "firma": "Quathamer GmbH",
+  "stelle": "Facharbeiter GaLaBau & Grünpflege (m/w/d)",
+  "ort": "Bad Zwischenahn",
+  "plz": "26160",
+  "region_badge": "Bad Zwischenahn & Umgebung",
+  "farbe_primary": "#007858",
+  "farbe_secondary": "#FCBF00",
+  "benefit_top": "Kurzer Freitag – Samstag frei",
+  "stellen_frage": "Für welche Stelle interessierst du dich?",
+  "stellen": [
+    {
+      "label": "Facharbeiter GaLaBau (m/w/d) – Bad Zwischenahn",
+      "sub": "Baukolonne · Außenanlagen bauen",
+      "icon": "🚜"
+    },
+    {
+      "label": "Facharbeiter Grünpflege (m/w/d) – Bad Zwischenahn",
+      "sub": "Grünpflegekolonne · Außenanlagen pflegen",
+      "icon": "🌿"
+    }
+  ],
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Urlaubsgeld, Weihnachtsgeld und Prämiensysteme",
+    "Kurzer Freitag – Samstag ist grundsätzlich frei",
+    "Bezahlte Wege- und Fahrtzeiten",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Feste Kolonnen statt ständig wechselnder Teams",
+    "Moderne Maschinen und ein umfangreicher Fuhrpark",
+    "Beteiligung am Mitarbeiterunternehmen (Quathamer Team GmbH & Co. KG)",
+    "Anhängerführerschein: Kosten werden übernommen",
+    "Betriebliche Altersvorsorge, Jobrad-Leasing und Fitnessstudio-Mitgliedschaft"
+  ],
+  "aufgaben": [
+    "Baukolonne: befestigte Flächen herstellen – Entwässerung, Einfassungen und Ausstattung einbauen",
+    "Baukolonne: Grünflächen anlegen, Stauden und Bäume pflanzen, Bagger und Radlader einsetzen",
+    "Grünpflegekolonne: Rasen, Hecken, Sträucher, Gehölze und Pflanzflächen fachgerecht pflegen",
+    "Grünpflegekolonne: Aufsitzmäher, Freischneider & Co. sicher einsetzen"
+  ],
+  "anforderung": "Ausbildung im GaLaBau, Gartenbau oder einer ähnlichen Baubranche – Quereinstieg ist möglich. Führerschein Klasse B/BE. Berufserfahrung ist super, aber kein Muss.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "GaLaBau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Gartenbau",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Andere Baubranche",
+      "icon": "🏗️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung am Bau",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "🎓"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "105",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1983",
+        "label": "gegründet"
+      }
+    ],
+    "text": "Quathamer ist ein modernes GaLaBau-Unternehmen aus Bad Zwischenahn mit über 40 Jahren Erfahrung. Das Team Q baut und pflegt öffentliche und gewerbliche Freiräume im Nordwesten – bodenständig, modern und mit ordentlich Maschinenpower."
+  },
+  "kunde_tab": "17 Quathamer GmbH",
+  "quelle": "https://quathamer.green-careers.de",
+  "branche": "galabau",
+  "logo": "logo.png",
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/foto-02-pflastermaschine.jpg",
+    "img/foto-03-pflaster-verlegen.jpg",
+    "img/foto-04-freischneider.jpg",
+    "img/foto-05-aufsitzmaeher.jpg",
+    "img/foto-06-maschinen-baustelle.jpg",
+    "img/foto-07-bagger.jpg",
+    "img/foto-08-laubblaeser.jpg",
+    "img/foto-09-pflanzflaeche.jpg",
+    "img/foto-10-team-halle.jpg",
+    "img/foto-11-maehen-park.jpg",
+    "img/foto-12-betriebshof.jpg"
+  ],
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Bad Zwischenahn"
+  }
+}
